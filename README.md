@@ -36,9 +36,69 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A golden chaine of divine aphorismes written by John Gerhard Doctor of Divinitie and superintendent 
+
+1. TO The Right Worshipfull his most worthy friend and Benefactour Sir John Hanburie of Kelmersh in Northamptonshire, Together with his Sonne and heire Edward Hanburie Esquire, & Mary his daughter Lady to Sir Miles Sandys of Brimsfield in Glocestersh. and all that are descended from them, Gerhards Interpreter wisheth what Temporall happinesse this world can afford, and Eternall happinesse in the world to come.
+
+1. ¶ To the Translatour of GERHARDS APHORISMES.
+
+1. ¶ TO THE READER, concerning the Authour and Interpreter of this Book.
+
+1. Upon the Golden chain of divine Aphorismes.
+MOst men that put forth Books have thi• main art,First for their Credit, then their better Mart,WithWHo list to glance a gentle lookUpon The Golden Chain this book,As in a Crystall first, may seeThe s
+1. ¶ The TRANSLATOUR To the Reader.
+
+1. The Contents of this Book In VERSE.
+
+1. The Contents of each Chapter in this Book.
+
 #####Body#####
-A golden chaine of divine aphorismes written by John Gerhard Doctor of Divinitie and superintendent 
+
+1. CHAP. I. A DESCRIPTION OR REPRESENTATION of the Theologicall places, or Heads of Divinitie, contained in this book, together with their order and connexion.
+
+1. CHAP. II. Wherein are contained Theologicall Aphorismes concerning the HOLY SCRIPTURE.
+
+1. CHAP. III. Wherein are contained Theologicall Aphorismes concerning GOD.
+
+1. CHAP. IV. Wherein are contained Theologicall Aphorismes concerning the PERSON and OFFICE of CHRIST.
+
+1. CHAP. V. Wherein are contained Theologicall Aphorismes concerning the CREATION, and the ANGELS.
+
+1. CHAP. VI. Wherein are contained Theologicall Aphorismes concerning the PROVIDENCE of GOD.
+
+1. CHAP. VII. Wherein are contained Theologicall Aphorismes concerning ELECTION and REPROBATION
+
+1. CHAP. VIII. Wherein are contained Theologicall Aphorismes concerning the Image of GOD in MAN before his Fall.
+
+1. CHAP. IX. Wherein are contained Theologicall Aphorismes concerning ORIGINALL SINNE, That is, The Fall of our first parents, and the corruption of nature which followed thereupon, and is propagated unto their posteritie.
+
+1. CHAP. X. Wherein are contained Theologicall Aphorismes concerning FREE-VVILL. That is, The Power which is left in man since the fall.
+
+1. CHAP. XI. Wherein are contained Theologicall Aphorismes concerning the LAVV.
+
+1. CHAP. XII. Wherein are contained Theologicall Aphorismes concerning the GOSPELL.
+
+1. CHAP. XIII. Wherein are contained Theologicall Aphorismes concerning REPENTANCE.
+
+1. CHAP. XIV. Wherein are contained Theologicall Aphorismes concerning FAITH. Whereby we are justified before God.
+
+1. CHAP. XV. Wherein are contained Theologicall Aphorismes concerning GOOD WORKS, That is, Renovation of the man that is regenerate by Faith in Christ.
+
+1. CHAP. XVI. Wherein are contained Theologicall Aphorismes concerning the SACRAMENTS.
+
+1. CHAP. XVII. Wherein are contained Theologicall Aphorismes concerning the Sacrament of BAPTISME.
+
+1. CHAP. XVIII. Wherein are contained Theologicall Aphorismes concerning the LORDS SUPPER.
+
+1. CHAP. XIX. Wherein are contained Theologicall Aphorismes concerning the CHURCH.
+
+1. CHAP. XX. Wherein are contained Theologicall Aphorismes concerning the ECCLESIASTICALL MINISTERIE.
+
+1. CHAP. XXI. Wherein are contained Theologicall Aphorismes concerning The POLITICALL ORDER, OR The CIVILL MAGISTRACIE.
+
+1. CHAP. XXII. Wherein are contained Theologicall Aphorismes concerning WEDLOCK, OR MARRIAGE.
+
+1. CHAP. XXIII. Wherein are contained Theologicall Aphorismes concerning the foure last things: DEATH, the RESURRECTION, the JUDGEMENT, and the PLACE either of Eternall JOY, or Eternall TORMENT.
+
 **Types of content**
 
   * There are 216 **verse** lines!
